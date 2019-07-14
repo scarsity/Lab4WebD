@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab4WebD
+</name>
+</assembly>
+<members>
+<member name="T:Lab4WebD.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab4WebD.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab4WebD.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab4WebD.Vehicles.#ctor(System.String,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Constuctor - Parameterized 
+ </summary>
+ <param name="make"></param>
+ <param name="model"></param>
+ <param name="year"></param>
+ <param name="price"></param>
+ <param name="newCar"></param>
+</member>
+<member name="P:Lab4WebD.Vehicles.Count">
+ <summary>
+ Count ReadOnly Property - Gets the number of customers that have been instantiated/created
+ </summary>
+ <returns>Integer</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.idNumber">
+ <summary>
+ ID property - Sets car order
+ </summary>
+ <returns>Integer</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.newCar">
+ <summary>
+ New Car property - Gets and Sets the new car status
+ </summary>
+ <returns>Boolean</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.make">
+ <summary>
+ Make property - Gets and Sets the Make of the vehicle
+ </summary>
+ <returns>String</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.model">
+ <summary>
+ Model property - Gets and Sets the model of the vehicle
+ </summary>
+ <returns>String</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.Year">
+ <summary>
+ Year property - Gets and Sets the Year
+ </summary>
+ <returns>String</returns>
+</member>
+<member name="P:Lab4WebD.Vehicles.Price">
+ <summary>
+ Price property - Gets and Sets the price of vehicle
+ </summary>
+ <returns>String</returns>
+</member>
+</members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\bin\Debug\Lab4WebD.exe.config
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\bin\Debug\Lab4WebD.exe
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\bin\Debug\Lab4WebD.pdb
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\bin\Debug\Lab4WebD.xml
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.Resources.resources
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.exe
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.xml
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.pdb
+C:\Users\User\source\repos\Lab4WebD\Lab4WebD\obj\Debug\Lab4WebD.MainForm.resources
